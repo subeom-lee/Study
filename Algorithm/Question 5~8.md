@@ -38,4 +38,4 @@ function solution(angle) {
     } else (angle === 180)
         return 4
 }
-```
+``` 
